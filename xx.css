@@ -11,3 +11,8 @@ body{
 body{
     color: #FFFFFF
 }
+body { 
+  background-image: url("Play");
+  background-repeat: no-repeat;
+  background-position:25% 75%;
+}
