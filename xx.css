@@ -5,6 +5,8 @@ body {
 
 body{
     background-image: url("backG.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
 }
 body{
     color: #FFFFFF
